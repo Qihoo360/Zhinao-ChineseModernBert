@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer
 from mteb.cache import ResultCache
 import os
 
-MODEL_PATH = 'qihoo360/Zhinao-ModernBert-Embedding'
+MODEL_PATH = 'qihoo360/Zhinao-ChineseModernBert-Embedding'
 
 def eval():
 
