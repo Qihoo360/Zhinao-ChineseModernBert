@@ -179,7 +179,7 @@ for i, score in enumerate(cos_scores):
   title={Zhinao-ChineseModernBert: Chinese Foundation & Vector Embedding Model for High-Throughput, Low-Memory Scenarios},
   author={zhinao team},
   year={2026},
-  howpublished={\url{https://github.com/your-repo/zhinao-chinesemodernbert}},
+  howpublished={\url{https://github.com/Qihoo360/zhinao-chinesemodernbert}},
 }
 ```
 
